@@ -1,3 +1,5 @@
+![A screenshot of ColorClock running](./screenshot.png)
+
 ColorClock is a screen saver for Mac OS X created in QuartzComposer. It was inspired by [The Colour Clock ](http://www.clock.lookatjack.com/) by [Jack Hughes](http://www.lookatjack.com/)
 
 ## Installation
